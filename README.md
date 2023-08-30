@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @dokoci
-- 👀 I’m interested in Desktop Application Development and Image processing/Creative coding.
+- 👋 Hi,
+- 👀 I’m interested in Desktop Application Development
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cs,cpp" />
