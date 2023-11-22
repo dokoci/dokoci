@@ -1,5 +1,5 @@
 - 👋 Hi,
-- 👀 I’m interested in Desktop Application Development
+- 👀 Desktop Application Development
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cs,cpp" />
